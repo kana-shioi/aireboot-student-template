@@ -7,6 +7,7 @@ GitHub Codespaces を起動すると、**Claude Code が自動でインストー
 
 1. このリポジトリのページ右上にある緑色の **「Use this template」** ボタンから、
    **自分の GitHub リポジトリを作成**します。
+   このとき、公開範囲は必ず **Private(非公開)** を選んでください。
 2. 作成した**自分のリポジトリ**を開き、**「Code」→「Codespaces」→「Create codespace on main」** で
    Codespace を起動します。
 3. 起動後、Claude Code の自動インストールが始まります。

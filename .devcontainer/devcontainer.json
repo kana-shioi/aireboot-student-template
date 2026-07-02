@@ -1,0 +1,5 @@
+{
+  "name": "aireboot-student",
+  "image": "mcr.microsoft.com/devcontainers/universal:2-linux",
+  "postCreateCommand": "npm install -g @anthropic-ai/claude-code && claude --version && echo '✅ Claude Code の準備が完了しました。ターミナルで claude と入力して開始できます。' || echo '❌ Claude Code のインストールに失敗しました。README のトラブルシューティングを参照してください。'"
+}
